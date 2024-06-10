@@ -1,1 +1,0 @@
-<template>News Management</template>
